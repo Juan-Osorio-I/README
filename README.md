@@ -25,15 +25,6 @@
 
 ---
 
-## 🌐 Mis perfiles de programación competitiva
-
-<p align="center">
-  <img src="https://img.icons8.com/color/50/000000/codechef.png" alt="Code Chef"/>
-  <img src="https://img.icons8.com/color/50/000000/leetcode.png" alt="LeetCode"/>
-  <img src="https://img.icons8.com/color/50/000000/codeforces.png" alt="Codeforces"/>
-</p>
-
----
 
 ## 📫 Conéctate conmigo
 
